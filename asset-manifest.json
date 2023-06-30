@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kushguglani/redux-tail/static/css/main.b83965dc.css",
+    "main.js": "/kushguglani/redux-tail/static/js/main.c7f9e234.js",
+    "static/js/787.3df71aa9.chunk.js": "/kushguglani/redux-tail/static/js/787.3df71aa9.chunk.js",
+    "index.html": "/kushguglani/redux-tail/index.html",
+    "main.b83965dc.css.map": "/kushguglani/redux-tail/static/css/main.b83965dc.css.map",
+    "main.c7f9e234.js.map": "/kushguglani/redux-tail/static/js/main.c7f9e234.js.map",
+    "787.3df71aa9.chunk.js.map": "/kushguglani/redux-tail/static/js/787.3df71aa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83965dc.css",
+    "static/js/main.c7f9e234.js"
+  ]
+}
